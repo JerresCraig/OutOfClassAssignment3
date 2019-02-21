@@ -31,7 +31,7 @@ namespace OutOfClassAssignment3
             string firstAlpha = " ";
             string lastAlpha = " ";
             string mostVowel = " ";
-            //change
+            //change2
             int vowelCt = 0;
             sw = System.IO.File.CreateText("Sample.out");
             if (this.openFileDialog1.ShowDialog() == DialogResult.OK)
